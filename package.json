@@ -1,0 +1,28 @@
+{
+  "name": "pagamento-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raivitor/pagamento-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raivitor/pagamento-api/issues"
+  },
+  "homepage": "https://github.com/raivitor/pagamento-api#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "consign": "^0.1.6",
+    "express": "^4.16.3",
+    "express-load": "^1.1.16",
+    "express-validator": "^5.2.0",
+    "mongoose": "^5.1.5"
+  }
+}
